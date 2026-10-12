@@ -13,7 +13,7 @@
 
 App for students to keep in touch with school events.
 
-## ✨ Key Features
+## Key Features
 
 - **Feature 1:** Login to app
 - **Feature 2:** Scroll through, examine and enroll to coming events
